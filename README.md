@@ -1,6 +1,5 @@
 # credit_card_fraud_detection
 
-# Credit Card Fraud Detection Project
 
 ## Overview
 This project aims to detect fraudulent credit card transactions using various machine learning models, including traditional algorithms and neural networks. The goal is to accurately identify potentially fraudulent transactions.
