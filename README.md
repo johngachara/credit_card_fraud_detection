@@ -2,7 +2,8 @@
 
 
 ## Overview
-This project aims to detect fraudulent credit card transactions using various machine learning models, including traditional algorithms and neural networks. The goal is to accurately identify potentially fraudulent transactions.
+This project aims to detect fraudulent credit card transactions using various machine learning models, including traditional algorithms and neural networks based on a kaggle dataset. The goal is to accurately identify potentially fraudulent transactions.
+dataset url : https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 ## Data Preprocessing
 1. **Data Loading**: The dataset was loaded from CSV files ('fraudTrain.csv' and 'fraudTest.csv').
